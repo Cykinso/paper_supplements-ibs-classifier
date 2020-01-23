@@ -1,0 +1,15 @@
+output/*
+!output/.keep
+.ipynb_checkpoints/
+
+# R scripts
+*.Rproj
+*.Rhistory
+*.RData
+*.Ruserdata
+
+# temporary folder
+.Rproj.user/*
+.idea/*
+work/
+.Rproj.user
