@@ -16,6 +16,12 @@ Dependent packages are given in the method in the paper.
 
 ## Usage
 
+### Clone*
+Clone this page repository
+```
+git clone https://github.com/twinkle13531/paper_supplements-ibs-classifier.git
+```
+
 ### Install
 Prepare docker images.
 ```
